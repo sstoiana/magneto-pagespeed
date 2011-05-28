@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Magneto_PageSpeed>
+            <version>1.0</version>
+        </Magneto_PageSpeed>
+    </modules>
+    <global>
+    	<helpers>
+    		<pagespeed>
+    			<class>Magneto_PageSpeed_Helper</class>
+    		</pagespeed>
+    	</helpers>
+        <models>
+        	<core>
+        		<rewrite>
+        			<design_package>Magneto_PageSpeed_Model_Design_Package</design_package>
+        		</rewrite>
+        	</core>
+        </models>
+    </global>
+</config>

@@ -1,0 +1,4 @@
+# Comments are supported, begin a line with a hash
+code/PageSpeed                  app/code/community/Magneto/PageSpeed 
+Magneto_PageSpeed.xml           app/etc/modules/Magneto_PageSpeed.xml 
+lib/yuicompressor-2.4.6         lib/yuicompressor-2.4.6
